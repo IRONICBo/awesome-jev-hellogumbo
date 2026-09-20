@@ -6124,7 +6124,7 @@
     {
       "name": "Jev Social",
       "repo": "socai-io/jev-social",
-      "site": "https://socai.io/",
+      "site": "https://socai-io.github.io/jev-social/",
       "description": "Local Instagram, TikTok, and LinkedIn research where Jev chooses bounded socai browser operations and streams captured evidence into cited reports.",
       "category": "browser",
       "language": "JavaScript",
